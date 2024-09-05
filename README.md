@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aonghas43
 - 👀 I’m interested in languages
-- 🌱 I’m currently learning Gaelic ( Gàidhlig ) : Я вивчаю гельську мову
+- 🌱 Tha mi a'ionnsachagh Gàidhlig  just now : Я вивчаю гельську мову
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
